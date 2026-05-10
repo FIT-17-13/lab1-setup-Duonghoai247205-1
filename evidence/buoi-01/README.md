@@ -7,7 +7,7 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 - Họ tên: Dương Thị Hoài
 - Mã sinh viên: 1771020286
 - Nhóm: 9
-- Vai trò dự kiến trong nhóm: Hỗ trợ thiết kế hệ thống
+- Vai trò dự kiến trong nhóm: Thành viên
 - Hệ điều hành: Windows
 - Ghi chú:
 
